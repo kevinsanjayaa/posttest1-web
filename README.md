@@ -2,7 +2,7 @@
 Kevin Sanjaya Lois
 (2109116082)
 
-Pada Website ini, menggunakan 4 file html dan 3 file css
+Pada Website ini, menggunakan 4 file html dan 4 file css
 
 Pada file awal1.html adalah menu utama pada website saya, disitu terdapat tombol navigasi about,kategori, daftar. apabila menekan salah satu diantara 3 tersebut maka akan beralih ke page yang berbeda.
 
